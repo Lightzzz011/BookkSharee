@@ -108,7 +108,6 @@
 
                 if (type === "error") toast.classList.replace("bg-gray-900", "bg-red-600");
                 else toast.classList.replace("bg-red-600", "bg-gray-900");
-
                 setTimeout(() => {
                     toast.classList.add("translate-y-20", "opacity-0");
                 }, 3000);
