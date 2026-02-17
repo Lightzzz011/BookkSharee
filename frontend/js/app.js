@@ -112,7 +112,6 @@
                     toast.classList.add("translate-y-20", "opacity-0");
                 }, 3000);
             },
-
             openModal(contentHTML) {
                 const modal = document.getElementById("modal-container");
                 const content = document.getElementById("modal-content");
