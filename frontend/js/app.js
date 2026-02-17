@@ -1,6 +1,6 @@
 
         // BACKEND API URL
-        const API_BASE = "http://localhost:5000/api";
+        const API_BASE = "https://bookksharee.onrender.com/api";
 
         /**
          * STORE
